@@ -1,6 +1,7 @@
 # Home Alarm System
 
 This project implements a home alarm system using an mbed LPC1768 board with an extension board that has a TextLCD display, a keypad, LEDs and switches.
+![93f67d055f378742abb5a1199f98a83](https://github.com/yuwenluopie/Home-Alarm-System/assets/88228465/3d05d6cc-b21c-473c-b22a-4a45104623be)
 
 ## Quickstart Guide
 
