@@ -1,6 +1,6 @@
 # Home Alarm System
 
-This project is an assignment for CE323 Advanced Embedded Systems Design course at University of Essex. It implements a home alarm system using an mbed LPC1768 board with an extension board that has a TextLCD display, a keypad, LEDs and switches.
+This project implements a home alarm system using an mbed LPC1768 board with an extension board that has a TextLCD display, a keypad, LEDs and switches.
 
 ## Quickstart Guide
 
